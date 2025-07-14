@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything! I'll try to answer my best!**
 
-- 📫 How to reach me **@12kg on Discord**
+- 📫 How to reach me **@ressentiments on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
