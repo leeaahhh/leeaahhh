@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/leahcmd" target="blank"><img src="https://img.shields.io/twitter/follow/leahcmd?logo=twitter&style=for-the-badge" alt="leahcmd" /></a> </p>
 
-- 🔭 I’m currently working on [rei](https://github.com/NERVCorporation/rei)
+- 🔭 I’m currently working on [Seattle](https://github.com/leeaahhh/seattle)
 
 - 🌱 I’m currently learning **TypeScript and PHP**
 
