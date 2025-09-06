@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Seattle](https://github.com/leeaahhh/seattle)
 
-- 🌱 I’m currently learning **TypeScript and PHP**
+- 🌱 I’m currently learning **C# and C++**
 
 - 💬 Ask me about **anything! I'll try to answer my best!**
 
